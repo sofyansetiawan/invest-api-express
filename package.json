@@ -1,0 +1,23 @@
+{
+  "name": "node20210505-SofyanSetiawan",
+  "version": "1.0.0",
+  "description": "## Task Create API Rest (POST) app and test the API with Node.Js .   Prefer using HAPI.JS with TypeScript. Express.JS and JavaScript/ES6 will accepted.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soeleman/node20210505-SofyanSetiawan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soeleman/node20210505-SofyanSetiawan/issues"
+  },
+  "homepage": "https://github.com/soeleman/node20210505-SofyanSetiawan#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
